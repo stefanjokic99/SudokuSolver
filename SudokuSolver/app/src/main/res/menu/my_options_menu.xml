@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/group"
+        android:checkableBehavior="single">
+        <item android:id="@+id/thread1"
+            android:title="1 Nit"/>
+        <item android:id="@+id/thread2"
+            android:title="2 Niti"/>
+        <item android:id="@+id/thread3"
+            android:title="3 Niti"/>
+        <item android:id="@+id/thread4"
+            android:title="4 Niti"/>
+        <item android:id="@+id/thread5"
+            android:title="5 Niti"/>
+        <item android:id="@+id/thread6"
+            android:title="6 Niti"/>
+        <item android:id="@+id/thread7"
+            android:title="7 Niti"/>
+        <item android:id="@+id/thread8"
+            android:title="8 Niti"/>
+
+    </group>
+</menu>
